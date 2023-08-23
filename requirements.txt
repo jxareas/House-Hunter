@@ -1,0 +1,113 @@
+alabaster==0.7.12
+argh==0.26.2
+astroid @ file:///C:/ci/astroid_1592481955828/work
+atomicwrites==1.4.0
+attrs==19.3.0
+autopep8 @ file:///tmp/build/80754af9/autopep8_1596578164842/work
+Babel==2.8.0
+backcall==0.2.0
+bcrypt==3.1.7
+bleach==3.1.5
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1594141588948/work
+colorama==0.4.3
+cryptography==3.2
+decorator==4.4.2
+defusedxml==0.6.0
+diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
+docutils==0.16
+entrypoints==0.3
+flake8==3.8.3
+future==0.18.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+imagesize==1.2.0
+importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
+intervaltree @ file:///tmp/build/80754af9/intervaltree_1594361675072/work
+ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1596868620883/work
+ipython-genutils==0.2.0
+isort==4.3.21
+jedi @ file:///C:/ci/jedi_1592833832328/work
+Jinja2==2.11.2
+joblib==0.16.0
+jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-core==4.6.3
+keyring @ file:///C:/ci/keyring_1596867296032/work
+lazy-object-proxy==1.4.3
+MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
+mccabe==0.6.1
+mistune @ file:///C:/ci/mistune_1594373272338/work
+nbconvert @ file:///C:/ci/nbconvert_1594372737468/work
+nbformat==5.0.7
+numpy==1.19.1
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
+packaging==20.4
+pandas==1.1.0
+pandocfilters==1.4.2
+paramiko==2.7.1
+parso==0.7.0
+pathtools==0.1.2
+pexpect @ file:///C:/ci/pexpect_1594383465186/work
+pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
+pluggy==0.13.1
+prompt-toolkit==3.0.5
+psutil==5.7.0
+pycodestyle==2.6.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
+pyflakes==2.2.0
+Pygments==2.6.1
+pylint @ file:///C:/ci/pylint_1592487534522/work
+PyNaCl @ file:///C:/ci/pynacl_1595009241355/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+pyrsistent==0.16.0
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-dateutil==2.8.1
+python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
+python-language-server @ file:///C:/ci/python-language-server_1594152769556/work
+pytz==2020.1
+pywin32==227
+pywin32-ctypes @ file:///C:/ci/pywin32-ctypes_1594392691209/work
+PyYAML==5.3.1
+pyzmq==19.0.1
+QDarkStyle==2.8.1
+QtAwesome==0.7.2
+qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
+QtPy==1.9.0
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+rope==0.17.0
+Rtree==0.9.4
+scikit-learn==0.22.2.post1
+scipy==1.5.2
+six==1.15.0
+snowballstemmer==2.0.0
+sortedcontainers==2.2.2
+Sphinx @ file:///tmp/build/80754af9/sphinx_1597004326341/work
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.4
+spyder @ file:///C:/ci/spyder_1594826266791/work
+spyder-kernels @ file:///C:/ci/spyder-kernels_1597006281278/work
+testpath==0.4.4
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+tornado==6.0.4
+traitlets==4.3.3
+typed-ast==1.4.1
+ujson==1.35
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
+watchdog @ file:///C:/ci/watchdog_1593446515400/work
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+win-inet-pton==1.1.0
+wincertstore==0.2
+wrapt==1.11.2
+yapf @ file:///tmp/build/80754af9/yapf_1593528177422/work
+zipp==3.1.0
